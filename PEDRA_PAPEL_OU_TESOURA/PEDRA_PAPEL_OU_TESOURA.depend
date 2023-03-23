@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650663931 source:h:\lógica de programação\c#\pedra_papel_ou_tesoura\main.c
+	<stdio.h>
+	<stdlib.h>
+

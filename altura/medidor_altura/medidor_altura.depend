@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654735211 source:h:\lógica de programação\c#\altura\medidor_altura\main.c
+	<stdio.h>
+	<stdlib.h>
+
